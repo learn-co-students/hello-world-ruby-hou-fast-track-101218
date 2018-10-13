@@ -1,2 +1,1 @@
-puts "Hello_world!"
-learn submit_tag
+puts "Hello World!"
